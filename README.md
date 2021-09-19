@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python , Solidity 
 - 🌱 I’m currently learning python fullsttack
 - 💞️ I’m looking to collaborate on any Solidity or Python project
-- 📫 How to reach me  mail me. Igorturove91@gmail.com
+- 📫 How to reach me  mail me. Igorturov91@gmail.com
 
 <!---
 IgorTurov/IgorTurov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
